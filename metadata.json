@@ -1,0 +1,5 @@
+{
+  "name": "特殊車両通行許可申請システム (Special Vehicle Permit System)",
+  "description": "AIを活用して最適な通行ルートを提案する特殊車両通行許可の申請支援アプリケーションです。出発日時と場所に基づき、道路の混雑状況を予測し、複数のルートを提案します。",
+  "requestFramePermissions": []
+}
